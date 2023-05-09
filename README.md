@@ -26,7 +26,7 @@
 
 `Приведите ответ в свободной форме........`
 
-1. [link]: https://github.com/luxlavel/git-hw/blob/main/README.md
+1. [link](https://github.com/luxlavel/git-hw/blob/main/README.md/ "README.md link")
 2. `3аполните здесь этапы выполнения, если требуется ....`
 3. `Заполните здесь этапы выполнения, если требуется ....`
 4. `Заполните здесь этапы выполнения, если требуется ....`
