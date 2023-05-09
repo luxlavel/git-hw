@@ -26,7 +26,7 @@
 
 `Приведите ответ в свободной форме........`
 
-1. [link](https://github.com/luxlavel/git-hw/blob/main/README.md/ "README.md link")
+1. [link](https://github.com/luxlavel/git-hw/commit/904f16e1efc0f8d85843dd957193d160694781ce/ "README.md link")
 
 ---
 
